@@ -1,0 +1,80 @@
+@font-face { font-family: 'PandhitaSekti';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/PandhitaSekti.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/PandhitaSekti.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'GugahenNyawaku';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/GugahenNyawaku.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/GugahenNyawaku.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'LintangAlihan';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/LintangAlihan.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/LintangAlihan.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'Manuharani';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/Manuharani.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/Manuharani.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'NgayogjanJejeg';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NgayogjanJejeg.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NgayogjanJejeg.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'NgayogjanOld';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NgayogjanOld.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NgayogjanOld.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'NotoSansJavanese';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NotoSansJavanese.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/NotoSansJavanese.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'Pringgandani';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/Pringgandani.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/Pringgandani.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face { font-family: 'RamayanaLinuwih';
+src:
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/RamayanaLinuwih.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/r4dit3/fonts/main/RamayanaLinuwih.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
